@@ -1,2 +1,4 @@
-# hello-world
-first repository 
+hello-world
+===========
+
+My name is Melinda and I am a HCI student
